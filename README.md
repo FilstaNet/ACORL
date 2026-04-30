@@ -47,6 +47,7 @@ W razie problemów z aplikacją napisz do mnie na discordzie: filip.223w
 # Known issues
 
 Unexpected resolution behaviour. As for now, while editing the Overlay Profile, pick Full HD option for best editing expierience. choosing else (even if your monitor is different) will cause text appear different than it actually is.
+Another issue related to this one is display changes while changing screens you operate on - because of that, please edit on one monitor at a time without changing screens before the fix comes
 
 Issues with inputs. Sometimes you will be unable to input text anywhere in the app. In order to fix it open another window (for example google) and tab back to the app. Sometimes apps' reset will be necessary. In this case rememebr to save your overlay profile.
 
