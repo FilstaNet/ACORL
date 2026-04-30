@@ -15,14 +15,14 @@ User Guide:
 4. Launch OBS Studio and create a new scene. First, set the image source as Game Capture -> Capture a specific window -> select the RocketLeague.exe process (while it's running).
 5. Add the image source in the browser and enter the URL visible in the ACORL menu (default: http://127.0.0.1:5147/overlay) and adjust the height and width. Set it to display over the game. 
 6. Import the overlay file (use the default one or create your own using overlay_template).
-7. Match the created elements to the overlay. You can edit them as desired, add new ones, or modify existing ones.
+7. Create elements you need or download template and load it.
 8. Once you're finished, you can save the overlay to a file and then load it whenever needed.
 
 Set the same resolution in both OBS Studio and ACORL.
 To start using ACORL, simply download the default .png overlay image and import it into the app.
 If you have any problems with the app, contact me on Discord: filip.223w
 
-
+Default overlay PNG file is available for download. Overlay template is available for download.
 
 
 Polish:
@@ -34,7 +34,7 @@ Instrukcja obsługi:
 4. Uruchom OBS studio i stwórz nową scenę. Pierwsze źródło obrazu sutaw jako przechwytywanie gry -> przechwytuj konkretne okno -> wybierz proces RocketLeague.exe (musi być uruchomiony)
 5. Dodaj źródło obrazu Przeglądarka i wprowadź adres URL widoczny w aplikacji (domyślnie: http://127.0.0.1:5147/overlay) i dopasuj wysokość oraz szerokość. Ustaw go aby wyświetlał się ponad grą.
 6. Importuj plik overlay (użyj domyślnego, lub stwórz własny z pomocą overlay_template)
-7. Dopasuj stworzone elementy do overlayu. Możesz je dowolnie edytować, dodawać nowe lub zmieniać istniejące.
+7. Utwórz potrzebne elementy lub pobierz szablon i załaduj go.
 8. Po zakończonej pracy możesz zapisać overlay do pliku i potem ponownie go wczytać. 
 
 W OBS studio jak i w ACORL ustaw tą samą rozdzielczość. 
