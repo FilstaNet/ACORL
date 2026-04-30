@@ -3,6 +3,8 @@ API Controlled Overlay Rocket League
 SHA256: AB190E2C2AD4C4D33CC9107585132CC68E11C592568FBEADA83DE3526A858F7F
 Languages: Polish / english
 
+Download Assets folder, and put whereever it is convenient for you.
+
 NOTE: Be aware the app might malfunction as ACORL is in early production stage.
 
 
