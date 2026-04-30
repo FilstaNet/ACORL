@@ -1,12 +1,15 @@
 # ACORL
 API Controlled Overlay Rocket League
-SHA256: 
+SHA256: AB190E2C2AD4C4D33CC9107585132CC68E11C592568FBEADA83DE3526A858F7F
 Languages: Polish / english
 
 NOTE: Be aware the app might malfunction as ACORL is in early production stage.
 
 
 English:
+
+IMPORTANT: While game is still not launched, go into your game directory, navigate to \rocketleague\TAGame\Config, and open 'DefaultStatsAPI'. Here, change `PacketSendRate` to any other value (recommended 30 for smoothest expierience).
+
 ACORL is used to create dynamic overlays for Rocket League. It uses the API recently released by the game developers (https://www.rocketleague.com/en/developer/stats-api) to capture data.
 User Guide:
 1. Download the latest release of the application.
@@ -26,6 +29,9 @@ Default overlay PNG file is available for download. Overlay template is availabl
 
 
 Polish:
+
+WAŻNE: Zanim gra się uruchomi, przejdź do katalogu gry, przejdź do \rocketleague\TAGame\Config i otwórz „DefaultStatsAPI”. Zmień wartość `PacketSendRate` na dowolną inną (zalecane 30 dla płynnego działania).
+
 ACORL służy do tworzenia dynamicznych overlayów dla Rocket League. Używa niedawno udostępnionego przez twórców gry API (https://www.rocketleague.com/en/developer/stats-api) do przechwytywania danych. 
 Instrukcja obsługi:
 1. pobierz najnowsze wydanie (release) aplikacji,
@@ -41,9 +47,6 @@ W OBS studio jak i w ACORL ustaw tą samą rozdzielczość.
 Aby rozpocząć korzystanie z ACORL wystarczy pobrać domyślny obraz overlay .png i go importować do aplikacji.
 W razie problemów z aplikacją napisz do mnie na discordzie: filip.223w
 
-
-2026 FilstaNet. All rights reserved©.
-
 # Known issues
 
 Unexpected resolution behaviour. As for now, while editing the Overlay Profile, pick Full HD option for best editing expierience. choosing else (even if your monitor is different) will cause text appear different than it actually is.
@@ -51,3 +54,7 @@ Another issue related to this one is display changes while changing screens you 
 
 Issues with inputs. Sometimes you will be unable to input text anywhere in the app. In order to fix it open another window (for example google) and tab back to the app. Sometimes apps' reset will be necessary. In this case rememebr to save your overlay profile.
 
+
+
+
+2026 FilstaNet. All rights reserved©.
