@@ -10,7 +10,7 @@ NOTE: Be aware the app might malfunction as ACORL is in early production stage.
 
 English:
 
-IMPORTANT: While game is still not launched, go into your game directory, navigate to \rocketleague\TAGame\Config, and open 'DefaultStatsAPI'. Here, change `PacketSendRate` to any other value (recommended 30 for smoothest expierience).
+IMPORTANT: While game is still not launched, go into your game directory, navigate to \rocketleague\TAGame\Config, and open 'DefaultStatsAPI'. Here, change `PacketSendRate` to any other value than 0 (recommended 30 for smoothest expierience).
 
 ACORL is used to create dynamic overlays for Rocket League. It uses the API recently released by the game developers (https://www.rocketleague.com/en/developer/stats-api) to capture data.
 User Guide:
