@@ -3,9 +3,10 @@ API Controlled Overlay Rocket League
 SHA256: 
 Languages: Polish / english
 
+NOTE: Be aware the app might malfunction as ACORL is in early production stage.
+
 
 English:
-
 ACORL is used to create dynamic overlays for Rocket League. It uses the API recently released by the game developers (https://www.rocketleague.com/en/developer/stats-api) to capture data.
 User Guide:
 1. Download the latest release of the application.
@@ -20,6 +21,8 @@ User Guide:
 Set the same resolution in both OBS Studio and ACORL.
 To start using ACORL, simply download the default .png overlay image and import it into the app.
 If you have any problems with the app, contact me on Discord: filip.223w
+
+
 
 
 Polish:
@@ -39,5 +42,5 @@ Aby rozpocząć korzystanie z ACORL wystarczy pobrać domyślny obraz overlay .p
 W razie problemów z aplikacją napisz do mnie na discordzie: filip.223w
 
 
-All rights reserved. 2026
+2026 FilstaNet. All rights reserved©.
 
