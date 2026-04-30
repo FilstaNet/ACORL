@@ -25,7 +25,6 @@ User Guide:
 
 Set the same resolution in both OBS Studio and ACORL.
 To start using ACORL, simply download the default .png overlay image and import it into the app.
-If you have any problems with the app, contact me on Discord: filip.223w
 
 Default overlay PNG file is available for download. Overlay template is available for download.
 
@@ -47,7 +46,6 @@ Instrukcja obsługi:
 
 W OBS studio jak i w ACORL ustaw tą samą rozdzielczość. 
 Aby rozpocząć korzystanie z ACORL wystarczy pobrać domyślny obraz overlay .png i go importować do aplikacji.
-W razie problemów z aplikacją napisz do mnie na discordzie: filip.223w
 
 # Known issues
 
